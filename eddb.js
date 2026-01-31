@@ -1300,7 +1300,7 @@ var eddb = {
 			id:38, stype:'mi', name:'Type-11 Prospector', class:2, cost:66346710, retail:67861850,
 			topspd:270, bstspd:365, mnv:2, shields:275, armour:350, mass:320, fwdacc:NaN, revacc:NaN, latacc:NaN, // TODO: *acc
 			minthrust:70.5, boostcost:25, boostint:6, pitch:25, yaw:22, roll:37.5, pitchacc:NaN, yawacc:NaN, rollacc:NaN, minpitch:22, // TODO: *acc, minpitch
-			heatcap:300, heatdismin:NaN, heatdismax:53.2, fuelcost:50, fuelreserve:0.60, hardness:58, masslock:15, crew:3, // verify: heatcap, heatdismax, masslock // TODO: heatdismin
+			heatcap:300, heatdismin:NaN, heatdismax:54.1, fuelcost:50, fuelreserve:0.60, hardness:58, masslock:15, crew:3, // verify: heatcap, heatdismax, masslock // TODO: heatdismin
 			slots:{
 				hardpoint:[3,2,2,2,1,1,1,1],
 				utility  :[0,0,0,0],
